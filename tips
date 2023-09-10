@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Milan-tout</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Milan-tout</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#">Articles</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="main-content">
+        <article>
+            <h2>Conseils de beauté</h2>
+            <p>Apprenez comment devenir belle avec nos astuces de beauté spécialement conçues pour les filles étudiantes.</p>
+        </article>
+
+        <!-- Vous pouvez répéter cette structure pour d'autres articles -->
+
+        <article>
+            <h2>conseil habillage simple pour l'école</h2>
+            <p>Découvrez un look léger et adapté à l'école.</p>
+        </article>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Milan-tout - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
